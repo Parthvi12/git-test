@@ -9,7 +9,11 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#FFEFDB",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    }
+  ],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
